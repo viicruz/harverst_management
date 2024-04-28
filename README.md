@@ -1,9 +1,11 @@
-# Expo Router and Tailwind CSS
+# Projeto relacionado à Aula do Professor Eduardo
 
-Use [Expo Router](https://docs.expo.dev/router/introduction/) with [Nativewind](https://www.nativewind.dev/v4/overview/) styling.
+Este projeto está relacionado à aula do Professor Eduardo. Originalmente, o código deveria ser enviado para o repositório da AOS/Fatec. No entanto, temporariamente, o código foi enviado aqui.
 
-## 🚀 How to use
+## Como Rodar
 
-```sh
-npx create-expo-app -e with-router-tailwind
-```
+Para rodar este projeto, siga estes passos simples:
+
+1. Execute `npm install` para instalar as dependências.
+2. Em seguida, execute `npx expo start`.
+3. Seja feliz! :)
